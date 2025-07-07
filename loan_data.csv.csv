@@ -1,0 +1,21 @@
+BorrowerID,Name,Income,LoanAmount,LoanType,AssetValue,District,TaxPaid,EMI,RepayStatus
+1001,Ram Kumar,50000,300000,Car,150000,Ranchi,2000,8500,On Time
+1002,Sunita Devi,70000,1200000,House,500000,Patna,3000,24000,Delayed
+1003,Ravi Singh,40000,600000,Gold,200000,Gaya,1000,16000,On Time
+1004,Neha Gupta,90000,150000,Online Loan,50000,Bokaro,4000,4200,On Time
+1005,Amit Yadav,35000,250000,Bike,100000,Dhanbad,1500,7000,Delayed
+1006,Shalini Das,55000,800000,Study Loan,100000,Cuttack,2000,22000,On Time
+1007,Manoj Tiwari,120000,2000000,House,1500000,Jamshedpur,10000,55000,Delayed
+1008,Seema Kumari,60000,300000,Insurance Loan,50000,Muzaffarpur,3000,8500,On Time
+1009,Alok Verma,45000,100000,Online Loan,30000,Gopalganj,1000,2800,On Time
+1010,Priya Sen,80000,500000,Car,300000,Sambalpur,5000,14000,Delayed
+1011,Arjun Roy,30000,120000,Bike,60000,Puri,1200,3300,On Time
+1012,Reena Jha,65000,700000,Gold,250000,Hazaribagh,3500,19500,On Time
+1013,Sachin Mehta,100000,2500000,House,1800000,Deoghar,15000,68000,Delayed
+1014,Soumya Patnaik,40000,200000,Study Loan,50000,Bhadrak,1500,5500,On Time
+1015,Nikita Rani,70000,1000000,Insurance Loan,200000,Baripada,5000,28000,Delayed
+1016,Vikram Shah,50000,400000,Online Loan,100000,Bettiah,2000,11000,On Time
+1017,Anita Sahu,60000,600000,Car,250000,Balangir,3000,16500,On Time
+1018,Sanjay Rawat,80000,1500000,House,1000000,Chatra,6000,42000,Delayed
+1019,Tanvi Mishra,45000,350000,Gold,120000,Arrah,1500,9700,On Time
+1020,Deepak Soni,55000,500000,Study Loan,150000,Kendrapara,2500,14000,On Time
