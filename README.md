@@ -1,6 +1,6 @@
 # FinLensAI
 
-FinLensAI is a data analytics app to detect borrower fraud, tax evasion, and predict state financial growth using Python, Streamlit, and Power BI.
+FinLensAI is a data analytics project to detect borrower fraud, tax evasion, and predict state financial growth using Python, Streamlit, and Power BI.
 
 ## Features
 - Borrower fraud detection
